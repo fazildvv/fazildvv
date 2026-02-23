@@ -78,12 +78,6 @@ full-stack   ████████████████████░░ 
 │                                                     │
 └─────────────────────────────────────────────────────┘
 
-{
-  "linkedin": "fazil-ali-52177a335",
-  "github": "fazildvv",
-  "email": "fazilali.devv@gmail.com",
-  "status": "open for collabs"
-}
 
 > fazilali.devv@gmail.com
 > github.com/fazildvv  

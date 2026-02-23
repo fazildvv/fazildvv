@@ -49,7 +49,42 @@ const fazil = {
   email: "fazilali.devv@gmail.com",
   sleep: null
 };
-<div align="center">
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=ff0033" /> <img src="https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=ff0033" /> <img src="https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=ff0033" /> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=ff0033" /> <img src="https://img.shields.io/badge/HTML-0a0a0a?style=flat-square&logo=html5&logoColor=ff0033" /> <img src="https://img.shields.io/badge/CSS-0a0a0a?style=flat-square&logo=css3&logoColor=ff0033" /> <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=ff0033" /> <img src="https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=ff0033" /> <img src="https://img.shields.io/badge/Cybersecurity-0a0a0a?style=flat-square&logo=hackthebox&logoColor=ff0033" /> <img src="https://img.shields.io/badge/AI%2FML-0a0a0a?style=flat-square&logo=tensorflow&logoColor=ff0033" />
+python       ████████████████████░░  90%
+react.js     █████████████████░░░░░  85%
+web dev      █████████████████████░  92%
+cybersec     ████████████████░░░░░░  82%
+css          █████████████████████░  90%
+java         ████████████████░░░░░░  80%
+c/c++        ███████████████░░░░░░░  78%
+ai/ml        ██████████████░░░░░░░░  75%
+video edit   █████████████████░░░░░  85%
+full-stack   ████████████████████░░  88%
 
-<br><br>
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🔴 CTO — Netster Agency                            │
+│     feb 2026 - present · nagpur · hybrid            │
+│     > enterprise innovation & scalable systems      │
+│     > leading cross-functional tech teams           │
+│                                                     │
+│  🎓 CS Undergrad                                    │
+│     > cybersecurity · web security · algorithms     │
+│                                                     │
+│  🎬 Freelance                                       │
+│     > video editing · reels · shorts · promos       │
+│     > social media account management               │
+│                                                     │
+│  status: building the future. no cap.               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+
+{
+  "linkedin": "fazil-ali-52177a335",
+  "github": "fazildvv",
+  "email": "fazilali.devv@gmail.com",
+  "status": "open for collabs"
+}
+
+> fazilali.devv@gmail.com
+> github.com/fazildvv  
+> built different. 🔴⚫
